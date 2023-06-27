@@ -8,14 +8,17 @@ This is developed with Java using Android Studio. It consists of basic functions
 
 We can also drag the music play line to adjust the song from where we want to listen. There is a little animation also provided to engage the song utility. This will come in to picture when we pause the song.
 
-![1687854926570](https://github.com/SubbuDommeti/MusicPlayer/assets/89302010/33ffbbfc-4f4e-43d4-9343-74a0a0d7edd5)
-![1687854926561](https://github.com/SubbuDommeti/MusicPlayer/assets/89302010/d91272df-32cd-4a3e-adeb-c8bf0e0914ec)
-![1687854926550](https://github.com/SubbuDommeti/MusicPlayer/assets/89302010/de16bb22-e491-4ab6-b26f-2f16fe509cd2)
+![1687854926570](https://github.com/SubbuDommeti/MusicPlayer/assets/89302010/7340db1d-68ac-41d2-bd0f-39d32cfc9788)
+![1687854926561](https://github.com/SubbuDommeti/MusicPlayer/assets/89302010/68251f9e-9897-4da6-b809-18504cac0308)
+![1687854926550](https://github.com/SubbuDommeti/MusicPlayer/assets/89302010/702bd3cb-1fc5-4a29-9f40-d2a89f6dac95)
 
-https://github.com/SubbuDommeti/MusicPlayer/assets/89302010/c25a2cac-bec1-4345-b01f-414948ac1486
+
+https://github.com/SubbuDommeti/MusicPlayer/assets/89302010/7978d89b-fef1-4f16-825a-64665387c9da
+
 
 Thank you,
 Subrahmanyam.
+
 
 
 
