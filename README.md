@@ -1,10 +1,12 @@
 Hello Everyone! Greetings of the Day
 
-I would like to share some small details about the MusicPlayer application.
+I would like to provide a brief overview of the MusicPlayer application.
 
-This was developed in Java using Android Studio. It consists of basic functions such as Displaying the music list after accepting the storage permissions and allowing us to select the song to listen to. And simultaneously, we can pause, play, next, previous, forward, and backward.
+Developed using Java in the Android Studio environment, the MusicPlayer application offers essential functions such as displaying a music list after obtaining storage permissions. Users can easily select songs to listen to and enjoy features like pause, play, next, previous, forward, and backward controls.
 
-We can also drag the music play line to adjust the song to where we want to listen. There is also a little animation provided to engage the song's utility. This will come into play when we pause the song.
+Additionally, the application allows users to conveniently adjust the playback position by dragging the music play line. To enhance the experience, a subtle animation engages users when a song is paused.
+
+Thank you for your attention.
 
 ![1687854926570](https://github.com/SubbuDommeti/MusicPlayer/assets/89302010/7340db1d-68ac-41d2-bd0f-39d32cfc9788)
 ![1687854926561](https://github.com/SubbuDommeti/MusicPlayer/assets/89302010/68251f9e-9897-4da6-b809-18504cac0308)
